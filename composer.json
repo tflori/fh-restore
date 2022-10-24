@@ -1,0 +1,11 @@
+{
+    "require": {
+        "tflori/hugga": "^1.1",
+        "ulrichsg/getopt-php": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tflori\\FhRestore\\": "src"
+        }
+    }
+}
